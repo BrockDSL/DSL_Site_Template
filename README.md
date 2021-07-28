@@ -1,7 +1,7 @@
 ![Tool Logo][imglogo]
 
 
-# Titley
+# Titlet
 Description of contents
 
 ### First header
