@@ -1,7 +1,7 @@
 ![Tool Logo][imglogo]
 
 
-# Title 
+# Title
 Description of contents
 
 ### First header
